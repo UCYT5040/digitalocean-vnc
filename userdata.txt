@@ -1,0 +1,1 @@
+git clone https://github.com/UCYT5040/digitalocean-vnc.git && cd digitalocean-vnc && bash install.sh
